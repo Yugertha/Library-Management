@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\library\\2312LibraryMS\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|d:\\library\\2312libraryms\\api\\api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|d:\\library\\2312libraryms\\api\\api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|d:\\library\\2312libraryms\\api\\api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|d:\\library\\2312libraryms\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\library\\2312LibraryMS\\API\\API\\EmailService.cs",
+              "RelativeDocumentMoniker": "API\\EmailService.cs",
+              "ToolTip": "D:\\library\\2312LibraryMS\\API\\API\\EmailService.cs",
+              "RelativeToolTip": "API\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:30:59.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\library\\2312LibraryMS\\API\\API\\Context.cs",
+              "RelativeDocumentMoniker": "API\\Context.cs",
+              "ToolTip": "D:\\library\\2312LibraryMS\\API\\API\\Context.cs",
+              "RelativeToolTip": "API\\Context.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:29:52.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\library\\2312LibraryMS\\API\\API\\JwtService.cs",
+              "RelativeDocumentMoniker": "API\\JwtService.cs",
+              "ToolTip": "D:\\library\\2312LibraryMS\\API\\API\\JwtService.cs",
+              "RelativeToolTip": "API\\JwtService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:29:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\library\\2312LibraryMS\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\library\\2312LibraryMS\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:27:43.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
